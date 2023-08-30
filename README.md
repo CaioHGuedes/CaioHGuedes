@@ -1,12 +1,13 @@
 ### </Olá!>
 
-
+<div>
 <a href="https://github.com/CaioHGuedes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioHGuedes&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/CaioHGuedes/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioHGuedes&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
