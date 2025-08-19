@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/CaioHGuedes/github-readme-stats">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=CaioHGuedes&show_icons=true&theme=midnight-purple" />
+  <img height="200" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=CaioHGuedes&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/CaioHGuedes/convoychat">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioHGuedes&layout=compact&langs_count=8&theme=midnight-purple" />
+  <img height="200" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioHGuedes&layout=compact&langs_count=8&theme=midnight-purple" />
 </a>
 </div>
 
