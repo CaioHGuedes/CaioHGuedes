@@ -2,7 +2,7 @@
 
 Olá! 👋 Sou Caio Guedes.
 
-Tenho 21 anos, sou estudante de Ciência da Computação na **UNINASSAU - RECIFE** e já somo mais de 6 meses de experiência no mercado de trabalho como desenvolvedor.
+Tenho 22 anos, sou estudante de Ciência da Computação na **UNINASSAU - RECIFE** e já somo mais de 6 meses de experiência no mercado de trabalho como desenvolvedor.
 
 Minha carreira tem como foco principal o **desenvolvimento Frontend**, utilizando **JavaScript** e **Next.js** para criar aplicações modernas, responsivas e de alta performance.
 
