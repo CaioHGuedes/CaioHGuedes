@@ -2,7 +2,7 @@
 
 Olá! 👋 Sou Caio Guedes.
 
-Tenho 22 anos, sou estudante de Ciência da Computação na **UNINASSAU - RECIFE** e já somo mais de 6 meses de experiência no mercado de trabalho como desenvolvedor.
+Tenho 22 anos, sou estudante de Ciência da Computação na **UNINASSAU - RECIFE** e já somo mais de 1 ano de experiência no mercado de trabalho como desenvolvedor.
 
 Minha carreira tem como foco principal o **desenvolvimento Frontend**, utilizando **JavaScript** e **Next.js** para criar aplicações modernas, responsivas e de alta performance.
 
@@ -39,6 +39,12 @@ Uma plataforma all-in-one para investidores que combina o gerenciamento de carte
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Mobile & Cross-Platform
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend & Database
 
