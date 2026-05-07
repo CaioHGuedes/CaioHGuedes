@@ -4,7 +4,7 @@ Olá! 👋 Sou Caio Guedes.
 
 Tenho 22 anos, sou estudante de Ciência da Computação na **UNINASSAU - RECIFE** e já somo mais de 1 ano de experiência no mercado de trabalho como desenvolvedor.
 
-Minha carreira tem como foco principal o **desenvolvimento Frontend**, utilizando **JavaScript** e **Next.js** para criar aplicações modernas, responsivas e de alta performance.
+Minha carreira é focada em **desenvolvimento Frontend e Mobile**, utilizando tecnologias como **Next.js**, **Flutter** e **React Native** para criar experiências responsivas e de alta performance em qualquer tela.
 
 ---
 
@@ -26,6 +26,23 @@ Uma plataforma all-in-one para investidores que combina o gerenciamento de carte
 - Módulo de Quiz interativo que testa e reforça conhecimentos sobre investimentos.
 - Uso estrito de TypeScript com interfaces compartilhadas (DTOs) entre Frontend e Backend.
 - Interface responsiva com micro-interações (Framer Motion) e visualização de dados complexos simplificada (Recharts).
+
+### 🟣 [Questly - Gamificação de Tarefas e Hábitos](https://github.com/CaioHGuedes/questly-app)
+
+Um aplicativo mobile inspirado em RPGs que transforma a rotina do usuário em uma jornada épica, permitindo completar missões, ganhar XP, subir de nível e interagir com amigos em Guildas.
+
+**Tecnologias:**
+
+- Frontend: Flutter, Riverpod (State Management), Material 3
+- Backend: API em Java com mensageria/eventos (Apache Kafka) - Em desenvolvimento no repositório `questly-api`
+- Features (MVP): Quadro de Missões, Criação de Guildas, Radar de Feed de Atividades, Avatar Dinâmico (DiceBear API) e Upload de Imagens.
+
+**Destaques:**
+
+- Gerenciamento de estado reativo e arquitetura limpa utilizando o **Riverpod (`NotifierProvider`)** para isolar a lógica de negócios da UI.
+- Implementação de **Deep Linking interno**: navegação fluida que direciona o usuário da Home para missões específicas com controle automático de scroll e animações de foco (Bounce/Pulse effects).
+- Forte foco em **UI/UX**, incluindo validações de formulário *inline*, transições customizadas de abas e tratamento rigoroso do teclado e *SafeAreas* nativas.
+- Componentização avançada baseada nos princípios **DRY e Clean Code**, criando um sistema de design consistente e escalável (Custom Inputs, Modais e Cards).
 
 ---
 
